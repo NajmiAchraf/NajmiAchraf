@@ -16,7 +16,7 @@
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/numpy.svg' alt='numpy' height='16'>|Data Science|numpy, matplotlib, sympy|1.20.2, 3.4.0, 1.7.1|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/pandas.svg' alt='pandas' height='16'>|Data Analysis|pandas|1.2.3|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/sqlite.svg' alt='sqlite' height='16'>|Data Base (DB)|SQLite3|2.0|
-|<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/windows.svg' alt='windows' height='16'>|Operative System (OS)|Windows|10|
+|<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/windows.svg' alt='windows' height='16'>|Operating System (OS)|Windows|10|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/pycharm.svg' alt='pycharm' height='16'>|Integrated Development Environment (IDE)|PyCharm (JetBrains)|2020.2.5|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/jupyter.svg' alt='jupyter' height='16'>|Shell|IDLE, Jupyter|3.7|
 
