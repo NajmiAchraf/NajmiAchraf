@@ -21,9 +21,9 @@
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/jupyter.svg' alt='jupyter' height='16'>|Shell|IDLE, Jupyter|3.7|
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OsirisHorusEye&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirisHorusEye&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact)  
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirisHorusEye&langs_count=8)
@@ -31,15 +31,15 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=MathPy&show_owner=true) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=Hydrogeologie&show_owner=true)
 --->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=latexcv&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=hipster-cv&show_owner=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=Gmail&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=Registration&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=latexcv&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=hipster-cv&show_owner=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Gmail&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Registration&show_owner=true)
 
 ## My online footprint
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/osirishoruseye)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/OsirisHorusEye)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/OsirisHorusEye)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmiachraf)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/achraf.d.najmi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NajmiAchraf)
 
 <!---
 OsirisHorusEye/OsirisHorusEye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
