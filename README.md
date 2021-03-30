@@ -6,9 +6,14 @@
 
 - 🌱 I’m currently, I am developing realtime applications with Python. 
 
-## Tech stack 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact) 
+
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirisHorusEye&langs_count=8)
+
+--->
+
+## Tech stack 
 
 | icon | kind | name | version |
 | :--: | ---- | ---- | ------- |
@@ -27,10 +32,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true) 
 
 ## Top repositories
-
 <!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirisHorusEye&langs_count=8)
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=MathPy&show_owner=true) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=Hydrogeologie&show_owner=true)
 --->
 
