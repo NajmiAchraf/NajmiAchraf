@@ -8,6 +8,8 @@
 
 ## Tech stack 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact) 
+
 | icon | kind | name | version |
 | :--: | ---- | ---- | ------- |
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>|Code|Python|3.7 & 3.8|
@@ -20,10 +22,11 @@
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/pycharm.svg' alt='pycharm' height='16'>|Integrated Development Environment (IDE)|PyCharm (JetBrains)|2020.2.5|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/jupyter.svg' alt='jupyter' height='16'>|Shell|IDLE, Jupyter|3.7|
 
+## Resume
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact)  
+## Top repositories
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirisHorusEye&langs_count=8)
