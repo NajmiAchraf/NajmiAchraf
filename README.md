@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=NajmiAchraf.NajmiAchraf)
 
 - 👀 My name is Achraf Najmi and I am all about Python <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>
 
@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact) 
 
 <!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsirisHorusEye&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&langs_count=8)
 
 --->
 
@@ -30,15 +30,15 @@
 ## Resume
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true) 
-
-## Top repositories
 <!---
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=MathPy&show_owner=true) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OsirisHorusEye&repo=Hydrogeologie&show_owner=true)
---->
+## Top repositories
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=MathPy&show_owner=true) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Hydrogeologie&show_owner=true)
+
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=latexcv&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=hipster-cv&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Gmail&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Registration&show_owner=true)
-
+--->
 ## My online footprint
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
@@ -47,6 +47,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NajmiAchraf)
 
 <!---
-OsirisHorusEye/OsirisHorusEye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NajmiAchraf/NajmiAchraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
