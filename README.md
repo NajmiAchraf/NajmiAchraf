@@ -31,14 +31,21 @@
 
 ## Resume
 
+<a href="https://github.com/NajmiAchraf">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&theme=light" />
+</a>
+<a href="https://github.com/NajmiAchraf">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=light&show_icons=true&line_height=40" />
+</a>
+
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&langs_count=8)
 
-<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact) 
---->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=light&show_icons=true) 
-<!---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=light&show_icons=true&line_height=40) 
+
 ## Top repositories
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=MathPy&show_owner=true) ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Hydrogeologie&show_owner=true)
