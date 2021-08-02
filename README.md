@@ -1,17 +1,19 @@
-## Hey there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=NajmiAchraf.NajmiAchraf)
+## 👋 Hey there, i'm [Achraf Najmi](https://github.com/NajmiAchraf/latexcv/blob/master/infographics_eng/media/infographics_eng.png)
 
-- 👀 My name is Achraf Najmi and I am all about Python <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>
+![](https://visitor-badge.glitch.me/badge?page_id=NajmiAchraf.NajmiAchraf)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmiachraf)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/achraf.d.najmi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NajmiAchraf)
+
+**Talking about Personal Stuffs:**
+
+- 👀 I am all about Python <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>
 
 - 💞️ I love to work on projects, that are about education.
 
-- 🌱 I’m currently, I am developing realtime applications with Python. 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact) 
-
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&langs_count=8)
-
---->
+- 🌱 I’m currently, I am developing realtime applications with Python.
 
 ## Tech stack 
 
@@ -29,7 +31,13 @@
 
 ## Resume
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=radical&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&langs_count=8)
+
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact) 
+--->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=light&show_icons=true) 
 <!---
 ## Top repositories
 
@@ -39,12 +47,12 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=latexcv&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=hipster-cv&show_owner=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Gmail&show_owner=true)  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NajmiAchraf&repo=Registration&show_owner=true)
 --->
-## My online footprint
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmiachraf)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/achraf.d.najmi)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NajmiAchraf)
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 <!---
 NajmiAchraf/NajmiAchraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
