@@ -1,6 +1,6 @@
-## 👋 Hey there, i'm [Achraf Najmi](https://github.com/NajmiAchraf/latexcv/blob/master/infographics_eng/media/infographics_eng.png)
+## 👋 Hey there
 
-![](https://visitor-badge.glitch.me/badge?page_id=NajmiAchraf.NajmiAchraf)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=anajmi)](https://github.com/mohouyizme/1337-readme)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmiachraf)
@@ -13,7 +13,7 @@
 
 - 💞️ I love to work on projects, that are about education.
 
-- 🌱 I’m currently, I am developing realtime applications with Python.
+- 🌱 I’m currently, I am developing real-time applications with Python.
 
 ## Tech stack 
 
@@ -31,6 +31,9 @@
 
 ## Resume
 
+![Metrics](https://metrics.lecoq.io/NajmiAchraf?template=classic&followup=1&isocalendar=1&languages=1&tweets=1&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FCasablanca&config.animated=true)
+
+<!---
 <a href="https://github.com/NajmiAchraf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&theme=light" />
 </a>
@@ -38,7 +41,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NajmiAchraf&hide=prs,issues,contribs&count_private=true&theme=light&show_icons=true&line_height=40" />
 </a>
 
-<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&langs_count=8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&layout=compact) 
@@ -58,6 +60,8 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+
+![](https://visitor-badge.glitch.me/badge?page_id=NajmiAchraf.NajmiAchraf)
 
 </div>
 
