@@ -1,6 +1,4 @@
-## 👋 Hey there
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=anajmi)](https://github.com/mohouyizme/1337-readme)
+## 👋 Hey there, i'm [Achraf Najmi](https://github.com/NajmiAchraf/latexcv/blob/master/infographics_eng/media/infographics_eng.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmiachraf)
