@@ -17,7 +17,7 @@
 
 | icon | kind | name | version |
 | :--: | ---- | ---- | ------- |
-|<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>|Code|Python|3.7 & 3.8|
+|<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>|Language|Python|3.7 & 3.8|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/anaconda.svg' alt='anaconda' height='16'>|Platform|Anaconda|2020.11|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>|Graphical User Interface (GUI)|tkinter|8.6|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/numpy.svg' alt='numpy' height='16'>|Data Science|numpy, matplotlib, sympy|1.20.2, 3.4.0, 1.7.1|
