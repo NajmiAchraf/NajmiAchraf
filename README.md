@@ -27,11 +27,12 @@
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/pycharm.svg' alt='pycharm' height='16'>|Integrated Development Environment (IDE)|PyCharm (JetBrains), Visual Studio Code|2020.1, Stable release|
 |<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/jupyter.svg' alt='jupyter' height='16'>|Shell|IDLE, Jupyter|3.7|
 
-## Resume
+## Metrics
 
-![Metrics](https://metrics.lecoq.io/NajmiAchraf?template=classic&followup=1&isocalendar=1&languages=1&tweets=1&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FCasablanca&config.animated=true)
+![Metrics](https://metrics.lecoq.io/NajmiAchraf?template=classic&isocalendar=1&languages=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FCasablanca)
 
 <!---
+
 <a href="https://github.com/NajmiAchraf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajmiAchraf&theme=light" />
 </a>
