@@ -1,17 +1,11 @@
-## 👋 Hey there, i'm [Achraf Najmi](https://github.com/NajmiAchraf/latexcv/blob/master/infographics_eng/media/infographics_eng.png)
+## 👋 Hey there, i'm [Achraf Najmi](https://github.com/NajmiAchraf/cvrex/blob/main/previews/it-dev_en.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmiachraf)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/achraf.d.najmi)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NajmiAchraf)
 
 **Talking about Personal Stuffs:**
 
-- 👀 I am all about Python <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/python.svg' alt='python' height='16'>
-
-- 💞️ I love to work on projects, that are about education.
-
-- 🌱 I’m currently, I am developing real-time applications with Python.
+Passionate IT developer studying at 1337 42network, mastering the art of C/C++, Python, and the endless possibilities of code. With a solid background in physics and electronics, I thrive on blending creativity and precision to craft remarkable solutions. Unlocking the digital world's potential, one line of code at a time.
 
 ## Tech stack 
 
