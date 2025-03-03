@@ -1,4 +1,4 @@
-## 👋 Hey there, i'm [Achraf Najmi]([https://github.com/NajmiAchraf/cvrex/blob/main/previews/it-dev_en.png](https://drive.google.com/file/d/1Elac8ZWX91_kZiHg13YPV95digTc0WT-/view?usp=sharing))
+## 👋 Hey there, i'm [Achraf Najmi](https://drive.google.com/file/d/1Elac8ZWX91_kZiHg13YPV95digTc0WT-/view?usp=sharing)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://www.stackoverflow.com/users/12854948)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@4.17.0/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najmiachraf)
